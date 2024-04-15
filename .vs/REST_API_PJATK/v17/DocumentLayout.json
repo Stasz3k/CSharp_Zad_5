@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\staho\\OneDrive\\Pulpit\\Python\\Python2024\\REST_API_PJATK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEA896F-7B3E-4491-AD85-8FC08CE08F9D}|REST_API_PJATK.csproj|c:\\users\\staho\\onedrive\\pulpit\\python\\python2024\\rest_api_pjatk\\controllers\\visitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEA896F-7B3E-4491-AD85-8FC08CE08F9D}|REST_API_PJATK.csproj|solutionrelative:controllers\\visitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEA896F-7B3E-4491-AD85-8FC08CE08F9D}|REST_API_PJATK.csproj|c:\\users\\staho\\onedrive\\pulpit\\python\\python2024\\rest_api_pjatk\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEA896F-7B3E-4491-AD85-8FC08CE08F9D}|REST_API_PJATK.csproj|solutionrelative:controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEA896F-7B3E-4491-AD85-8FC08CE08F9D}|REST_API_PJATK.csproj|c:\\users\\staho\\onedrive\\pulpit\\python\\python2024\\rest_api_pjatk\\models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEA896F-7B3E-4491-AD85-8FC08CE08F9D}|REST_API_PJATK.csproj|solutionrelative:models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEA896F-7B3E-4491-AD85-8FC08CE08F9D}|REST_API_PJATK.csproj|c:\\users\\staho\\onedrive\\pulpit\\python\\python2024\\rest_api_pjatk\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEA896F-7B3E-4491-AD85-8FC08CE08F9D}|REST_API_PJATK.csproj|solutionrelative:models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEA896F-7B3E-4491-AD85-8FC08CE08F9D}|REST_API_PJATK.csproj|c:\\users\\staho\\onedrive\\pulpit\\python\\python2024\\rest_api_pjatk\\rest_api_pjatk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8FEA896F-7B3E-4491-AD85-8FC08CE08F9D}|REST_API_PJATK.csproj|solutionrelative:rest_api_pjatk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisitsController.cs",
+              "DocumentMoniker": "C:\\Users\\staho\\OneDrive\\Pulpit\\Python\\Python2024\\REST_API_PJATK\\Controllers\\VisitsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VisitsController.cs",
+              "ToolTip": "C:\\Users\\staho\\OneDrive\\Pulpit\\Python\\Python2024\\REST_API_PJATK\\Controllers\\VisitsController.cs",
+              "RelativeToolTip": "Controllers\\VisitsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:57:03.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalsController.cs",
+              "DocumentMoniker": "C:\\Users\\staho\\OneDrive\\Pulpit\\Python\\Python2024\\REST_API_PJATK\\Controllers\\AnimalsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AnimalsController.cs",
+              "ToolTip": "C:\\Users\\staho\\OneDrive\\Pulpit\\Python\\Python2024\\REST_API_PJATK\\Controllers\\AnimalsController.cs",
+              "RelativeToolTip": "Controllers\\AnimalsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:56:45.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Users\\staho\\OneDrive\\Pulpit\\Python\\Python2024\\REST_API_PJATK\\Models\\Visit.cs",
+              "RelativeDocumentMoniker": "Models\\Visit.cs",
+              "ToolTip": "C:\\Users\\staho\\OneDrive\\Pulpit\\Python\\Python2024\\REST_API_PJATK\\Models\\Visit.cs",
+              "RelativeToolTip": "Models\\Visit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:56:35.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "REST_API_PJATK",
+              "DocumentMoniker": "C:\\Users\\staho\\OneDrive\\Pulpit\\Python\\Python2024\\REST_API_PJATK\\REST_API_PJATK.csproj",
+              "RelativeDocumentMoniker": "REST_API_PJATK.csproj",
+              "ToolTip": "C:\\Users\\staho\\OneDrive\\Pulpit\\Python\\Python2024\\REST_API_PJATK\\REST_API_PJATK.csproj",
+              "RelativeToolTip": "REST_API_PJATK.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T18:56:14.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\staho\\OneDrive\\Pulpit\\Python\\Python2024\\REST_API_PJATK\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\staho\\OneDrive\\Pulpit\\Python\\Python2024\\REST_API_PJATK\\Models\\Animal.cs",
+              "RelativeToolTip": "Models\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:56:28.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

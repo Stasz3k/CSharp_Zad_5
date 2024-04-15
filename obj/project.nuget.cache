@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6evSU3Ha+d27MFnHWgoOQizTxKeqCibO6Zq8ZgfDxzWVSACw9ZhyQwNbDsYiit57rOO/u7WKSqrFMkh/Fvbv/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\staho\\OneDrive\\Pulpit\\Python\\Python2024\\REST_API_PJATK\\REST_API_PJATK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\staho\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\staho\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\staho\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\staho\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\staho\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\staho\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
